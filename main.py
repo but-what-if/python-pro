@@ -3,6 +3,7 @@ from faker import Faker
 import string, random, requests, csv
 
 
+
 def generate_str():
     str = ''.join(random.choices(string.ascii_lowercase, k=8))
     return str
