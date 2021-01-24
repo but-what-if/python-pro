@@ -3,4 +3,5 @@ __pycache__/
 env/
 test.py
 .idea/*
+myvenv/
 
